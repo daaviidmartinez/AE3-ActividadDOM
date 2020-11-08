@@ -1,0 +1,22 @@
+{
+  "name": "martinez_romaguera_david_ae3",
+  "version": "0.0.1",
+  "description": "Recopilacion de datos de un usuario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daaviidmartinez/AE3-ActividadDOM.git"
+  },
+  "author": "David Martinez Romaguera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daaviidmartinez/AE3-ActividadDOM/issues"
+  },
+  "homepage": "https://github.com/daaviidmartinez/AE3-ActividadDOM#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
